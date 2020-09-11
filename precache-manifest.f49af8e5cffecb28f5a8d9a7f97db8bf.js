@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e271b446fb35cb133ca538a2c1444ef",
+    "revision": "ee82122a8a6fef003a55e75a888ab7c1",
     "url": "/cpshandiworks/index.html"
   },
   {
-    "revision": "3030fcd7436aa250d6eb",
-    "url": "/cpshandiworks/static/css/main.354f89e2.chunk.css"
+    "revision": "c8007581db8e9aaa4cb1",
+    "url": "/cpshandiworks/static/css/main.3d86df2f.chunk.css"
   },
   {
     "revision": "89dbb9aa8e5f102f738b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cpshandiworks/static/js/2.6a4d89cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3030fcd7436aa250d6eb",
-    "url": "/cpshandiworks/static/js/main.6854f97c.chunk.js"
+    "revision": "c8007581db8e9aaa4cb1",
+    "url": "/cpshandiworks/static/js/main.f9efd68b.chunk.js"
   },
   {
     "revision": "748d3141fc44af919896",

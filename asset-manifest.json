@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cpshandiworks/static/css/main.354f89e2.chunk.css",
-    "main.js": "/cpshandiworks/static/js/main.6854f97c.chunk.js",
-    "main.js.map": "/cpshandiworks/static/js/main.6854f97c.chunk.js.map",
+    "main.css": "/cpshandiworks/static/css/main.3d86df2f.chunk.css",
+    "main.js": "/cpshandiworks/static/js/main.f9efd68b.chunk.js",
+    "main.js.map": "/cpshandiworks/static/js/main.f9efd68b.chunk.js.map",
     "runtime-main.js": "/cpshandiworks/static/js/runtime-main.4d8b2a4c.js",
     "runtime-main.js.map": "/cpshandiworks/static/js/runtime-main.4d8b2a4c.js.map",
     "static/js/2.6a4d89cd.chunk.js": "/cpshandiworks/static/js/2.6a4d89cd.chunk.js",
     "static/js/2.6a4d89cd.chunk.js.map": "/cpshandiworks/static/js/2.6a4d89cd.chunk.js.map",
     "index.html": "/cpshandiworks/index.html",
-    "precache-manifest.f381ce5085a7ed288a16a43e742d08e0.js": "/cpshandiworks/precache-manifest.f381ce5085a7ed288a16a43e742d08e0.js",
+    "precache-manifest.f49af8e5cffecb28f5a8d9a7f97db8bf.js": "/cpshandiworks/precache-manifest.f49af8e5cffecb28f5a8d9a7f97db8bf.js",
     "service-worker.js": "/cpshandiworks/service-worker.js",
-    "static/css/main.354f89e2.chunk.css.map": "/cpshandiworks/static/css/main.354f89e2.chunk.css.map",
+    "static/css/main.3d86df2f.chunk.css.map": "/cpshandiworks/static/css/main.3d86df2f.chunk.css.map",
     "static/js/2.6a4d89cd.chunk.js.LICENSE.txt": "/cpshandiworks/static/js/2.6a4d89cd.chunk.js.LICENSE.txt",
     "static/media/bathroom1.jpg": "/cpshandiworks/static/media/bathroom1.9a52b5ed.jpg",
     "static/media/landing.css": "/cpshandiworks/static/media/bg.f3e2deb5.png",
@@ -62,7 +62,7 @@
   "entrypoints": [
     "static/js/runtime-main.4d8b2a4c.js",
     "static/js/2.6a4d89cd.chunk.js",
-    "static/css/main.354f89e2.chunk.css",
-    "static/js/main.6854f97c.chunk.js"
+    "static/css/main.3d86df2f.chunk.css",
+    "static/js/main.f9efd68b.chunk.js"
   ]
 }
